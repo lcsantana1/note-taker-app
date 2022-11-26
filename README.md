@@ -9,9 +9,6 @@ When the user visits the initial page, you will see a 'get started' button that 
   ## Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
@@ -23,7 +20,12 @@ When the user visits the initial page, you will see a 'get started' button that 
   
   Deployed application link using Heroku:
   
+  https://note-taker-laura-santana.herokuapp.com/
+  
   Screenshot:
+  
+  ![Screen Shot 2022-11-25 at 8 57 49 PM](https://user-images.githubusercontent.com/106941418/204071585-e74bc8b3-5f0b-4097-b359-3daf056802ae.png)
+
   
 
  
